@@ -135,7 +135,7 @@
     "typescript-json-schema": "^0.32.0"
   },
   "dependencies": {
-    "@babel/polyfill": "^7.2.5",
+    "@babel/polyfill": "^7.12.1",
     "@octokit/rest": "^16.43.1",
     "async-retry": "1.2.3",
     "chalk": "^2.3.0",
