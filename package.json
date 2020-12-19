@@ -161,7 +161,7 @@
     "node-cleanup": "^2.1.2",
     "node-fetch": "^2.3.0",
     "override-require": "^1.1.1",
-    "p-limit": "^2.1.0",
+    "p-limit": "^2.3.0",
     "parse-diff": "^0.7.0",
     "parse-git-config": "^2.0.3",
     "parse-github-url": "^1.0.2",
